@@ -21,6 +21,7 @@ _Instituto Nuestra Señora de Las Nieves_
 
 ## Habilidades y aprendizaje continuo
 - **Aprendizaje constante** de nuevas habilidades y tecnologías.
+- **Experiencia** programando en **C y C++**.
 - **Idiomas:** Español 🇪🇸 (Nativo), Inglés 🇬🇧 (Cambridge certificate B2 level).
   
 ## Experiencia Internacional
