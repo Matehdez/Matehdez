@@ -2,7 +2,7 @@
 
 ## Sobre mí
 **Nombre:** Mateo Hernandez  
-**Edad:** 19 años  
+**Edad:** 20 años  
 **¿Dónde vivo?:** Buenos Aires, Argentina 🇦🇷  
 **Estudio:** Ingeniería en Sistemas de Información, 2º año 🎓  
 **Universidad:** UTN FRBA  
